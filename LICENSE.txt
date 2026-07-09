@@ -1,0 +1,77 @@
+Project Licensing
+=================
+
+Copyright (c) 2026 Igor-Scalzer010
+
+This repository uses a mixed licensing structure:
+
+1. Original code in this project is licensed under the MIT License.
+2. Original notes, explanations, and educational materials are licensed under
+   Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+   (CC BY-NC-SA 4.0).
+3. Third-party materials, including datasets, courses, books, examples, images,
+   adapted excerpts, and external documentation, belong to their respective
+   authors and are governed by their own licenses or terms of use.
+
+See THIRD_PARTY_NOTICES.md for information about external sources used or
+planned in this repository.
+
+
+MIT License - Original Code
+===========================
+
+Copyright (c) 2026 Igor-Scalzer010
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of the software portions of this repository and associated documentation files
+(the "Software"), to deal in the Software without restriction, including
+without limitation the rights to use, copy, modify, merge, publish, distribute,
+sublicense, and/or sell copies of the Software, and to permit persons to whom
+the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+
+CC BY-NC-SA 4.0 - Original Study Content
+========================================
+
+Original notes, explanations, educational texts, author-created comments, and
+study materials created by this repository's author are made available under
+the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+license (CC BY-NC-SA 4.0).
+
+This means you may share and adapt this original content for non-commercial
+purposes, as long as you provide appropriate attribution and distribute any
+adaptations under the same or a compatible license.
+
+Legal code:
+https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
+
+License summary:
+https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+
+Exclusions
+==========
+
+This license does not grant rights over materials that do not belong to this
+repository's author. In particular, it does not automatically apply to:
+
+- third-party datasets;
+- third-party course, book, article, documentation, or video content;
+- code examples copied or adapted from external sources;
+- third-party trademarks, names, logos, images, audio, or video;
+- any material listed in THIRD_PARTY_NOTICES.md with its own license, its own
+  terms, or a source pending confirmation.
+
+When this file conflicts with a third-party license or term, the third-party
+license or term governs the corresponding material.
