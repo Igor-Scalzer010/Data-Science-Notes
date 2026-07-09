@@ -18,7 +18,7 @@ Este projeto reúne meus estudos práticos sobre Data Science e Machine Learning
 
 ```mermaid
 flowchart TD
-    root["📘 Data Science Book"]
+    root["📘 Data Science Notes"]
     notebooks["📓 notebooks"]
     tools["🛠️ tools"]
 
